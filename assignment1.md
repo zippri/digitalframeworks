@@ -9,4 +9,4 @@ The three main points that I thought the article could have done better are:
 2. Adding a visual element to the article. There are a lot of seperate statistics and figures that are used in this articl: migration date, housing prices, birth rates, immigration rates, etc. It would have been nice to see a visual element added in the article. I think that a year over year graph showing the population in decline would have been really helpful for the article.
 3. Using quotes from people who are being affected by this trend. The article uses a lot of quotes from experts. I would have tried to speak with people who have moved from S.F. recently or people who are still there, but struggling to remain there.
 
-Overall, I really liked the article. It was able to use data that is able to be easily accessed and show a really unique story.
+Overall, I really liked the article. It useed data that is able to be easily accessed and it showed a really unique story.
