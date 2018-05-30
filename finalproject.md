@@ -10,7 +10,7 @@ The specific warning in the Trump administration’s 2018 NPR is that while the 
 
 “We must look reality in the eye and see the worlds as it is, not as we wish it to be,” the 2018 NPR states. “Despite concerted U.S. efforts to reduce the role of nuclear weapons in international affairs…since 2010 no potential adversary has reduced either the role of nuclear weapons in its national security strategy or the number of nuclear weapons it fields.”
 
-While the NPR and other strategic documents from the U.S. speak about “global powers,” when it comes to nuclear weapons, there are really only two countries that occupy the majority of the conversation – the U.S. and Russia.
+While the NPR and other strategic documents from the U.S. speak about “global powers,” when it comes to nuclear weapons, there are really only two countries that have historically dominated the global stockpile – the U.S. and Russia.
 
 The U.S. and Russia are in possession of 92 percent of the global-nuclear stockpile, according to the nuclear weapons research foundation Ploughshares. There is currently a total of 14, 175 nuclear weapons shared between nine countries—Russia, the U.S., France, China, the United Kingdom, Pakistan, India, Israel, and North Korea. 
 
@@ -28,7 +28,9 @@ In 1986, the global nuclear stockpile was 64,099 – the highest it has ever bee
 
 The U.S. had 23,327 nuclear warheads in 1986, which is nearly 10,000 less than the U.S. had in 1967, when the U.S. stockpile was at its highest point. The global stockpile dramatically decreased over the next two decades. By 2006, it fell to 15,254 despite four other countries – China, India, Pakistan, and North Korea – gaining possession of nuclear weapons.
 
-The central point of the 2018 NPR can be seen in this sentence: “Since 2010, no potential adversary has reduced either the role of nuclear weapons in its national security strategy or the number of nuclear weapons it fields.”
+A key claim by the 2018 NPR is that “Since 2010, no potential adversary has reduced either the role of nuclear weapons in its national security strategy or the number of nuclear weapons it fields.”
+
+However, it is not a simple as saying that no countries, other than the U.S., have reduced their investment in nuclear weapons.
 
 While Russia—America’s near-peer nuclear competitor—has 300 more nuclear warheads in their total stockpile than the U.S., they have been reducing their total numbers since 2010.
 
@@ -38,17 +40,17 @@ The U.S. reduced their stockpile by 1,066 by 2017 and Russia reduced their stock
 
 While these numbers do not reflect the “number of nuclear weapons it fields,” which the NPR specifically states, the U.S. actually has more deployed warheads than any other country and nearly 200 more than Russia, according the Bulletin of Atomic Scientist.
 
-Also, Russia has abided by the regulations established by the 2010 Strategic Arms Reduction Treaty signed by both countries.
+Also, Russia has abided by the regulations established by the 2010 Strategic Arms Reduction Treaty signed by by the U.S. and Russia. The 2010 START established limits to the ammount of deployed nuclear weapons each country could have, limits that Russia met.
 
 “During the past year, Russia significantly reduced the number of warheads deployed on its ballistic missiles to meet the New START limit of no more than 1,550 deployed strategic warheads,” Hans Kristensen and Robert Norris, two atomic experts who write the annual reports for the Bulletin of Atomic Scientists, wrote in Russia’s 2018 annual report.
 
-Among the global powers that the Trump administration highlighted as threats in their strategic documents, there is a severe drop off in nuclear capability after Russia to China and, even more so, from China to North Korea.
+Among the global powers that the Trump administration highlighted as threats in their strategic documents, there is a severe drop off in nuclear capability from Russia to China and, even more so, from China to North Korea.
 
-China has a total stockpile of 270. China did not get its first nuclear weapon until 1964 – nearly 20 years after the U.S. However, once it did, its development took off. Over the next ten years, China’s stockpile grew from one to 170. China’s stockpile has only grown by 100 since 1974.
+China has a total stockpile of 270. China did not get its first nuclear weapon until 1964 – nearly 20 years after the U.S. However, once it did, its development took off. By 1974, China’s stockpile grew from a singular nuclear weapon to 170. China’s stockpile has only grown by 100 in the last four decades.
 
-Kristensen and Norris said in 2016 that while China’s stockpile has not significantly grown over the last four decades, the countries focus on modernization has created a “more diverse and capable nuclear arsenal.”
+Kristensen and Norris said in 2016 that while China’s stockpile has not significantly grown, the countries focus on modernization has created a “more diverse and capable nuclear arsenal.”
 
-Kristensen and Norris said that China’s nuclear strategy remains to never use them first and to emphasis deterrence, but its recent “improvement may in turn alter Chinese nuclear policy and strategy.”
+Kristensen and Norris said that China’s nuclear strategy remains to never use them first and to emphasize deterrence, but its recent “improvement may in turn alter Chinese nuclear policy and strategy.”
 
 North Korea is a much tougher country to estimate. While Ploughshares puts the country’s stockpile total at under 15 and the Bulletin for Atomic Scientists puts North Koreas stockpile at under 10, there are serious questions about the capabilities of these totals, even if they are accurate.
 
@@ -56,6 +58,6 @@ North Korea is a much tougher country to estimate. While Ploughshares puts the c
 
 The report stressed that uncertainties about North Korea’s possession of nuclear weapons and their capabilities should not allow “complacency,” but the report was very cautious regarding any specific details about its stockpile.
 
-The potential nuclear threat from Russia, China and North Korea are not simply in the number of nuclear warheads that they have, but in the potential of their use. While the NPR highlights shifting strategies to tactical nuclear weapon use by Russia, drawing stockpiles down and focusing on deterrence has worked for the last 70 years. 
+The potential nuclear threat from Russia, China and North Korea are not simply in the number of nuclear warheads that they have, but in the potential of their use. While the NPR highlights shifting strategies to the use of tactical nuclear weapons by Russia, reducing stockpiles and focusing on deterrence has worked for the last 70 years. 
 
-Despite the global stockpile reaching a height of over 60,000, no nuclear weapons have been used since the U.S. dropped atomic bombs over Hiroshima and Nagasaki in 1945.
+Despite the global stockpile reaching a height of over 60,000, the global stockpile has dramatically been reduced and no nuclear weapons have been used since the U.S. dropped atomic bombs over Hiroshima and Nagasaki in 1945.
